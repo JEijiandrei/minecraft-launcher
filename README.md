@@ -1,2 +1,2 @@
 # JElauncher
-JElauncher (i need help idk how to make a launcher also suck at codings)
+JElauncher stay tuned the launcher is now in the development
